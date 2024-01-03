@@ -27949,7 +27949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pathManager: {fileID: 0}
-  timeBetweenWave: 20
+  timeBetweenWave: 19
   startTime: 1
   upOffsetSpawn: 2
   wavesToSpawn:
